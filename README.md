@@ -1,4 +1,5 @@
 # Simple-Portfolio
+
 This is a simple responsive portfolio website that I built using just standard HTML and CSS.
 
 #Features aand Description
@@ -11,6 +12,6 @@ Projects: This is a section that displays some of my past projects.Each project 
 Contact: The page that has my contact  information.
 In addition to the above main sections,it also has a footer section.
 
-#Technologies Used
+#Technologies Used : 
 HTML
 CSS
